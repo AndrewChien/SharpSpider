@@ -1,0 +1,10 @@
+D:\资料-项目\demos\QiubaiReader\YirenReaderConsole\bin\Debug\config.txt
+D:\资料-项目\demos\QiubaiReader\YirenReaderConsole\bin\Debug\configmovie.txt
+D:\资料-项目\demos\QiubaiReader\YirenReaderConsole\bin\Debug\YirenReaderConsole.exe
+D:\资料-项目\demos\QiubaiReader\YirenReaderConsole\bin\Debug\YirenReaderConsole.pdb
+D:\资料-项目\demos\QiubaiReader\YirenReaderConsole\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\资料-项目\demos\QiubaiReader\YirenReaderConsole\bin\Debug\MySql.Data.dll
+D:\资料-项目\demos\QiubaiReader\YirenReaderConsole\obj\Debug\YirenReaderConsole.exe
+D:\资料-项目\demos\QiubaiReader\YirenReaderConsole\obj\Debug\YirenReaderConsole.pdb
+D:\资料-项目\demos\QiubaiReader\YirenReaderConsole\bin\Debug\novelconfig.txt
+D:\资料-项目\demos\QiubaiReader\YirenReaderConsole\obj\Debug\YirenReaderConsole.csprojResolveAssemblyReference.cache
